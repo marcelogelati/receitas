@@ -15,7 +15,7 @@
 
 ## Rendimento
 
-Uma refeição muito bem servida
+Duas porções muito bem servidas
 
 ## Modo de preparo
 
