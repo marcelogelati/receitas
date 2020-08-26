@@ -2,7 +2,7 @@
 
 ## Ingredientes
 
-### Molho de frango
+### Molho de frango desfiado
 
 * 1 cebola
 * 2 dentes de alho
@@ -32,16 +32,9 @@
 
 ## Modo de Preparo
 
-### Preparando o molho de frango
+### Preparando o molho de frango desfiado
 
-Observação: os tempos de cozimento servem para a panela de pressão elétrica. 
-
-Coloque o frango para descongelar. Cozinhe 4 tomates por 12 minutos. Pique a cebola em cubos. Pique o alho em cubos. Quando o tomate terminar,
-tire a casca e o centro duro dele e coloque num pote. 
-
-Tempere o frango com sal. Preencha o fundo da panela com azeite. Espere o óleo esquentar. Coloque os filezinhos inteiros, mas não todos de uma vez. 
-Provavelmente você terá que fritar em três levas. Após fritar todos frangos, coloque-os de lado. Frite a cebola até ficar bem dourada. Frite o alho. Coloque o tomate e mexa bem.
-Coloque esse molho e o frango frito na panela de pressão. Deixe por 12 minutos. Quando terminar, mexa o frango para desfiar. Guarde o molho de frango.
+Veja a receita de [frango desfiado](../frango-desfiado.md).
 
 ### Preparando o molho base
 
