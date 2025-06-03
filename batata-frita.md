@@ -27,4 +27,4 @@ com o óleo. Se sim, está tudo pronto. Se não, espere mais um pouco e tente no
 
 Quando as batatas estiverem no ponto que você quiser (geralmente douradas é um ótimo ponto),
 retire com uma escumadeira. Use o papel toalha para retirar mais um pouco do excesso
-da farinha de milho e para enxugar o óleo. Tempere com o sal e sirva.
+da farinha de milho e para enxugar o óleo. Tempere com sal e sirva.
